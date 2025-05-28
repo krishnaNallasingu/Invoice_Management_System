@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="mt-8 md:text-center text-foreground-accent px-6">
                 <p>Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. All rights reserved.</p>
-                <p className="text-sm mt-2 text-gray-500">Made with &hearts; by <a href="https://github.com/hemanth-sunkireddy" target="_blank">Hemanth</a></p>
+                <p className="text-sm mt-2 text-gray-500">Made with &hearts; by <a href="https://github.com/krishnaNallasingu" target="_blank">JaganKrishna Nallasingu</a></p>
             </div>
         </footer>
     );
