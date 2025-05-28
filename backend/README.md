@@ -22,5 +22,3 @@ npm install
 npm run start
 ```
 * Backend runs on 4000 port
-
-> Please check Backend docs for details about code: [Backend Docs Wiki](https://github.com/hemanth-sunkireddy/Swipe-Invoice-Management/wiki/Backend-Docs)

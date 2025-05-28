@@ -36,5 +36,3 @@
 `
 http://localhost:3000
 `
-
-> Please visit the Frontend Documentation for a detailed overview of the code: [Frontend Docs wiki](https://github.com/hemanth-sunkireddy/Swipe-Invoice-Management/wiki/Frontend-Docs)
