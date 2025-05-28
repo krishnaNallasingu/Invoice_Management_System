@@ -8,11 +8,7 @@ export const footerDetails: {
     quickLinks: [
         {
             text: "Github Code Link",
-            url: "https://github.com/hemanth-sunkireddy/Swipe-Invoice-Management"
-        },
-        {
-            text: "Project Documentation",
-            url: "https://github.com/hemanth-sunkireddy/Swipe-Invoice-Management/wiki"
+            url: "https://github.com/krishnaNallasingu/Invoice_Management_System"
         },
         {
             text: "Backend Server URL",

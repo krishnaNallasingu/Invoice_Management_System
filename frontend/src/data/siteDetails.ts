@@ -1,5 +1,5 @@
 export const siteDetails = {
-    siteName: 'Hemanth',
+    siteName: 'Jagankrishna',
     siteUrl: 'https://swipe-invoice-management-frontend.vercel.app/',
     metadata: {
         title: 'Swipe - Simple Billing and Payments App',
